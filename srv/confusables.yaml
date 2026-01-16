@@ -1,0 +1,112 @@
+---
+- word: bizatihi
+  meaning: kendinden, özünden, aslından; kendiliğinden
+  confused: bizzat
+- word: bizzat
+  meaning: kendisi, kendi, şahsen; doğrudan doğruya
+  confused: bizatihi
+- word: defaten
+  meaning: bir defada, tek seferde
+  confused: defalarca
+- word: grup
+  meaning: küme, öbek, takım
+  confused: gurup
+- word: gurup
+  meaning: güneşin batması, gün batımı
+  confused: grup
+- word: konformist
+  meaning: uyumlu, itaatkâr
+  confused: konforuna düşkün
+- word: mahiyet
+  meaning: bir şeyin ne olduğunu belirleyen asıl unsur, nitelik
+  confused: maiyet
+- word: mahsun
+  meaning: tahkim edilmiş, dayanıklı hâle getirilmiş
+  confused: mahzun
+- word: mahsur
+  meaning: kuşatılmış, sarılmış
+  confused: mahzur
+- word: mahzun
+  meaning: hüzünlü, üzüntülü
+  confused: mahsun
+- word: mahzur
+  meaning: sakınca
+  confused: mahsur
+- word: maiyet
+  meaning: üst görevlinin yanında bulunan kimseler, alt kademedekiler
+  confused: mahiyet
+- word: mihnet
+  meaning: sıkıntı, eziyet, dert, zorluk, meşakkat
+  confused: minnet
+- word: minnet
+  meaning: iyilik karşısında kendini borçlu hissetme, gönül borcu
+  confused: mihnet
+- word: musır
+  meaning: ısrar eden, ısrarcı
+  confused: muzır
+- word: muzır
+  meaning: zarar veren, zararlı
+  confused: musır
+- word: mütevazi
+  meaning: paralel
+  confused: mütevazı
+- word: mütevazı
+  meaning: tevazu sahibi
+  confused: mütevazi
+- word: nahif
+  meaning: duygulu, hassas, ince
+  confused: naif
+- word: naif
+  meaning: saf, deneyimsiz
+  confused: nahif
+- word: savap
+  meaning: doğruluk, doğru olan şey, hata karşıtı
+  confused: sevap
+- word: sevap
+  meaning: iyi davranış karşılığında Allah'ın verdiği mükâfat
+  confused: savap
+- word: sukut
+  meaning: düşme, devrilme, sarkma
+  confused: sükût
+- word: sükût
+  meaning: susma, sessizlik, konuşmama
+  confused: sukut
+- word: takdir
+  meaning: beğenme, beğenip belirtme
+  confused: taktir
+- word: taktir
+  meaning: damıtma
+  confused: takdir
+- word: uhde
+  meaning: birinin yapmakla yükümlü olduğu iş, görev, sorumluluk
+  confused: ukde
+- word: ukde
+  meaning: düğüm, yumru, içe dert olan şey
+  confused: uhde
+- word: umarsız
+  meaning: çaresiz
+  confused: umursamaz
+- word: vasi
+  meaning: hukuki işlem yapamayan kimselere atanan temsilci
+  confused: vâsi
+- word: vâsi
+  meaning: geniş, engin
+  confused: vasi
+- word: yakinen
+  meaning: kesin ve sağlam olarak bilme, şüphesiz
+  confused: yakından
+- word: yakından
+  meaning: yakın olarak
+  confused: yakinen
+- word: yayımlamak
+  meaning: kitap, gazete vb şeyleri basmak/dağıtmak, radyo/tv üzerinden sunmak, resmen ilan etmek
+  confused: yayınlamak
+- word: yayın
+  meaning: yayımlamak eyleminin sonucunda ortaya çıkan ürün
+  confused: yayım
+- word: zirâ
+  meaning: dirsekten orta parmak ucuna kadar olan uzunluk ölçüsü
+  confused: zîra
+- word: zîra
+  meaning: çünkü, şundan dolayı
+  confused: zirâ
