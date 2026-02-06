@@ -1,0 +1,1025 @@
+---
+- wrong: abi
+  right: ağabey
+- wrong: acaip
+  right: acayip
+- wrong: acenta
+  right: acente
+- wrong: acitasyon
+  right: ajitasyon
+- wrong: adale
+  right: adele
+- wrong: afaroz
+  right: aforoz
+- wrong: afilli
+  right: afili
+- wrong: ahçı
+  right: aşçı
+- wrong: ahlağa
+  right: ahlaka
+- wrong: ahlağı
+  right: ahlakı
+- wrong: ahlağın
+  right: ahlakın
+- wrong: akapunktur
+  right: akupunktur
+- wrong: akibet
+  right: akıbet
+- wrong: akrapol
+  right: akropol
+- wrong: aliminyum
+  right: alüminyum
+- wrong: alimünyum
+  right: alüminyum
+- wrong: Allahü Teala
+  right: Allahutaala
+- wrong: allerji
+  right: alerji
+- wrong: alt yapı
+  right: altyapı
+- wrong: ambians
+  right: ambiyans
+- wrong: an ve an
+  right: anbean
+- wrong: anfi
+  right: amfi
+- wrong: Ankara'lı
+  right: Ankaralı
+- wrong: anotomi
+  right: anatomi
+- wrong: Antartika
+  right: Antarktika
+- wrong: antiparantez
+  right: antrparantez
+- wrong: antreman
+  right: antrenman
+- wrong: apandist
+  right: apandisit
+- wrong: aparatif
+  right: aperitif
+- wrong: aperatif
+  right: aperitif
+- wrong: arasıra
+  right: ara sıra
+- wrong: ardarda
+  right: art arda
+- wrong: ardısıra
+  right: ardı sıra
+- wrong: arefe
+  right: arife
+- wrong: arozöz
+  right: arazöz
+- wrong: arttırılma
+  right: artırılma
+- wrong: arttırır
+  right: artırır
+- wrong: arttırmak
+  right: artırmak
+- wrong: arzederim
+  right: arz ederim
+- wrong: askari
+  right: asgari
+- wrong: asvalt
+  right: asfalt
+- wrong: aşçı
+  right: aşçı
+- wrong: aşil tendonu
+  right: Aşil tendonu
+- wrong: aşkolsun
+  right: aşk olsun
+- wrong: at binmek
+  right: ata binmek
+- wrong: ataç
+  right: ataş
+- wrong: Atatürkçülük'ü
+  right: Atatürkçülüğü
+- wrong: ateşe
+  right: ataşe
+- wrong: atmış
+  right: altmış
+- wrong: ayrıyeten
+  right: ayrıca
+- wrong: ayrıyetten
+  right: ayrıca
+- wrong: Azarbaycan
+  right: Azerbaycan
+- wrong: Azarbeycan
+  right: Azerbaycan
+- wrong: azerbaycan
+  right: azerbaycan
+- wrong: Azerbeycan
+  right: Azerbaycan
+- wrong: bahçevan
+  right: bahçıvan
+- wrong: bahçivan
+  right: bahçıvan
+- wrong: banane
+  right: bana ne
+- wrong: barsak
+  right: bağırsak
+- wrong: baya
+  right: bayağı
+- wrong: benle
+  right: benimle
+- wrong: beynelminel
+  right: beynelmilel
+- wrong: bilader
+  right: birader
+- wrong: bilimum
+  right: bilumum
+- wrong: bilinç altı
+  right: bilinçaltı
+- wrong: bilmemezlik
+  right: bilmezlik
+- wrong: bilmemezlikten
+  right: bilmezlikten
+- wrong: bir biri
+  right: birbiri
+- wrong: bir çok
+  right: birçok
+- wrong: bir haber
+  right: bihaber
+- wrong: bir kaç
+  right: birkaç
+- wrong: birarada
+  right: bir arada
+- wrong: biraraya
+  right: bir araya
+- wrong: birfiil
+  right: bilfiil
+- wrong: birhaber
+  right: bihaber
+- wrong: biribiri
+  right: birbiri
+- wrong: biribirine
+  right: birbirine
+- wrong: birşey
+  right: bir şey
+- wrong: biyolojist
+  right: biyolog
+- wrong: bizle
+  right: bizimle
+- wrong: bloğu
+  right: bloku
+- wrong: bu gün
+  right: bugün
+- wrong: bugünki
+  right: bugünkü
+- wrong: bumbar
+  right: mumbar
+- wrong: burada
+  right: burda
+- wrong: büluğ
+  right: buluğ
+- wrong: büsküüt
+  right: bisküvi
+- wrong: büsküvi
+  right: bisküvi
+- wrong: büyültmek
+  right: büyütmek
+- wrong: by-pass
+  right: baypas
+- wrong: cemetmek
+  right: cem etmek
+- wrong: cereyan
+  right: ceryan
+- wrong: cıvata
+  right: civata
+- wrong: civa
+  right: cıva
+- wrong: çiğ börek
+  right: çi börek
+- wrong: çünki
+  right: çünkü
+- wrong: darp etmek
+  right: darbetmek
+- wrong: dedektif
+  right: detektif
+- wrong: def olmak
+  right: defolmak
+- wrong: dersane
+  right: dershane
+- wrong: devirdaim
+  right: devridaim
+- wrong: deyinmek
+  right: değinmek
+- wrong: diaspora
+  right: diyaspora
+- wrong: dinozor
+  right: dinazor
+- wrong: direk
+  right: direkt
+- wrong: distribütör
+  right: distribütör
+- wrong: doğalgaz
+  right: doğal gaz
+- wrong: Doğubeyazıt
+  right: Doğubayazıt
+- wrong: döküman
+  right: doküman
+- wrong: döndermek
+  right: döndürmek
+- wrong: düz yazı
+  right: düzyazı
+- wrong: egsos
+  right: egzoz
+- wrong: egsoz
+  right: egzoz
+- wrong: egzantrik
+  right: eksantrik
+- wrong: egzos
+  right: egzoz
+- wrong: egzost
+  right: egzoz
+- wrong: ehl-i beyt
+  right: ehlibeyit
+- wrong: ehlibeyt
+  right: ehlibeyit
+- wrong: eksos
+  right: egzoz
+- wrong: eksoz
+  right: egzoz
+- wrong: ekzantrik
+  right: eksantrik
+- wrong: ekzoz
+  right: egzoz
+- wrong: ençok
+  right: en çok
+- wrong: entellektüel
+  right: entelektüel
+- wrong: erezyon
+  right: erozyon
+- wrong: eskaza
+  right: ezkaza
+- wrong: espiri
+  right: espri
+- wrong: eşki
+  right: ekşi
+- wrong: eşkiya
+  right: eşkıya
+- wrong: eşortman
+  right: eşofman
+- wrong: eşşek
+  right: eşek
+- wrong: euro
+  right: avro
+- wrong: evrağı
+  right: evrakı
+- wrong: evraklar
+  right: evrak
+- wrong: evye
+  right: eviye
+- wrong: eylence
+  right: eğlence
+- wrong: farketmek
+  right: fark etmek
+- wrong: farzetmek
+  right: farz etmek
+- wrong: fasülya
+  right: fasulye
+- wrong: fasülye
+  right: fasulye
+- wrong: felan
+  right: falan
+- wrong: felsefik
+  right: felsefi
+- wrong: Finli
+  right: Fin
+- wrong: florasan
+  right: floresan
+- wrong: fortmanto
+  right: portmanto
+- wrong: gardolap
+  right: gardırop
+- wrong: gardrop
+  right: gardırop
+- wrong: garez
+  right: garaz
+- wrong: gasp etmek
+  right: gasbetmek
+- wrong: gavat
+  right: kavat
+- wrong: gay
+  right: gey
+- wrong: geçtiğimiz ay
+  right: geçen ay
+- wrong: geçtiğimiz gün
+  right: geçen gün
+- wrong: geçtiğimiz hafta
+  right: geçen hafta
+- wrong: glukoz
+  right: glikoz
+- wrong: gluten
+  right: glüten
+- wrong: görmemezlik
+  right: görmezlik
+- wrong: görmemezlikten
+  right: görmezlikten
+- wrong: göya
+  right: güya
+- wrong: göz yaşı
+  right: gözyaşı
+- wrong: grızüü
+  right: grizu
+- wrong: grizü
+  right: grizu
+- wrong: hadsafhada
+  right: had safhada
+- wrong: Hakkari
+  right: Hakkâri
+- wrong: halikar
+  right: hâlükâr
+- wrong: halukar
+  right: hâlükâr
+- wrong: hapşurmak
+  right: hapşırmak
+- wrong: hapşuruk
+  right: hapşırık
+- wrong: harem selamlık
+  right: haremlik selamlık
+- wrong: harfiyat
+  right: hafriyat
+- wrong: hasıraltı
+  right: hasır altı
+- wrong: hastahane
+  right: hastane
+- wrong: hatasıyla sevabıyla
+  right: hatasıyla savabıyla
+- wrong: hatrı
+  right: hatırı
+- wrong: hatrım
+  right: hatırım
+- wrong: hatrımız
+  right: hatırımız
+- wrong: hayli hayli
+  right: haydi haydi
+- wrong: hazır cevap
+  right: hazırcevap
+- wrong: hem fikir
+  right: hemfikir
+- wrong: hemşeri
+  right: hemşehri
+- wrong: hemşir
+  right: hemşire
+- wrong: her hangi bir
+  right: herhangi bir
+- wrong: herbir
+  right: her bir
+- wrong: herbiri
+  right: her biri
+- wrong: hergün
+  right: her gün
+- wrong: herhangibir
+  right: herhangi bir
+- wrong: herkez
+  right: herkes
+- wrong: herşey
+  right: her şey
+- wrong: herzaman
+  right: her zaman
+- wrong: hiçkimse
+  right: hiç kimse
+- wrong: Hintli
+  right: Hint
+- wrong: hizmetiçi
+  right: hizmet içi
+- wrong: hoş beş
+  right: hoşbeş
+- wrong: hoşçakal
+  right: hoşça kal
+- wrong: hoşçakalmak
+  right: hoşça kalmak
+- wrong: hoşgelmek
+  right: hoş gelmek
+- wrong: Hristiyanlık'ta
+  right: Hristiyanlıkta
+- wrong: hukuğa
+  right: hukuka
+- wrong: hukuğu
+  right: hukuku
+- wrong: hukuğun
+  right: hukukun
+- wrong: hükümet
+  right: hükûmet
+- wrong: ırsi
+  right: irsî
+- wrong: ırsî
+  right: irsî
+- wrong: ıstırap
+  right: ıztırap
+- wrong: idda
+  right: iddia
+- wrong: iddaa
+  right: iddia
+- wrong: ilizyon
+  right: illüzyon
+- wrong: ilkönce
+  right: ilk önce
+- wrong: ilkyardım
+  right: ilk yardım
+- wrong: illa ki
+  right: illaki
+- wrong: ilustrasyon
+  right: illüstrasyon
+- wrong: ilüstrasyon
+  right: illüstrasyon
+- wrong: ilüzyon
+  right: illüzyon
+- wrong: imza sirküsü
+  right: imza sirküleri
+- wrong: inkilap
+  right: inkılap
+- wrong: insiyatif
+  right: inisiyatif
+- wrong: istepne
+  right: stepne
+- wrong: itibariyla
+  right: itibarıyla
+- wrong: itibariyle
+  right: itibarıyla
+- wrong: Iztırap
+  right: ıstırap
+- wrong: i̇çerde
+  right: içeride
+- wrong: i̇nsiyatif
+  right: inisiyatif
+- wrong: i̇şbirliği
+  right: iş birliği
+- wrong: i̇tibariyle
+  right: itibarıyla
+- wrong: i̇zalasyon
+  right: izolasyon
+- wrong: jip
+  right: cip
+- wrong: jop
+  right: cop
+- wrong: kalemşör
+  right: kalemşor
+- wrong: kanepe
+  right: kanape
+- wrong: kapşon
+  right: kapüşon
+- wrong: karakutu
+  right: kara kutu
+- wrong: karayolu
+  right: kara yolu
+- wrong: kareografi
+  right: koreografi
+- wrong: karisör
+  right: karoser
+- wrong: karma karışık
+  right: karmakarışık
+- wrong: karnıbahar
+  right: karnabahar
+- wrong: karsör
+  right: karoser
+- wrong: kat sayı
+  right: katsayı
+- wrong: kat ve kat
+  right: katbekat
+- wrong: katetmek
+  right: kat etmek
+- wrong: kayyum
+  right: kayyım
+- wrong: kıraathane
+  right: kıraathane
+- wrong: kıravat
+  right: kravat
+- wrong: kırkikindi
+  right: kırk ikindi
+- wrong: kilot
+  right: külot
+- wrong: kiprik
+  right: kirpik
+- wrong: kitapevi
+  right: kitabevi
+- wrong: klavuz
+  right: kılavuz
+- wrong: kolleksiyon
+  right: koleksiyon
+- wrong: kollektif
+  right: kolektif
+- wrong: kolonyağı
+  right: kolonya
+- wrong: komidin
+  right: komodin
+- wrong: kominikasyon
+  right: komünikasyon
+- wrong: komünükasyon
+  right: komünikasyon
+- wrong: konservatuar
+  right: konservatuvar
+- wrong: konteynır
+  right: konteyner
+- wrong: kontraplak
+  right: kontrplak
+- wrong: kontür
+  right: kontur
+- wrong: kontür
+  right: kontör
+- wrong: krathane
+  right: kıraathane
+- wrong: küfür etmek
+  right: küfretmek
+- wrong: küme çıkmak
+  right: kümeye çıkmak
+- wrong: küpür
+  right: kupür
+- wrong: küsür
+  right: küsur
+- wrong: küvöz
+  right: kuvöz
+- wrong: labaratuar
+  right: laboratuvar
+- wrong: laboratuar
+  right: laboratuvar
+- wrong: laboratuvar
+  right: laboratuvar
+- wrong: laborotuar
+  right: laboratuvar
+- wrong: labratuvar
+  right: laboratuvar
+- wrong: lakayt
+  right: lakayıt
+- wrong: lavobo
+  right: lavabo
+- wrong: laylon
+  right: naylon
+- wrong: logar
+  right: rögar
+- wrong: madem ki
+  right: mademki
+- wrong: mahçup
+  right: mahcup
+- wrong: makina
+  right: makine
+- wrong: malesef
+  right: maalesef
+- wrong: malumun ilanı
+  right: malumun ilamı
+- wrong: mantalite
+  right: mentalite
+- wrong: marihuana
+  right: marijuana
+- wrong: maskulen
+  right: maskülen
+- wrong: mataryel
+  right: materyal
+- wrong: maydonoz
+  right: maydanoz
+- wrong: mazallah
+  right: maazallah
+- wrong: mebla
+  right: meblağ
+- wrong: mefta
+  right: mevta
+- wrong: melemen
+  right: menemen
+- wrong: men etmek
+  right: menetmek
+- wrong: menacer
+  right: menajer
+- wrong: menapoz
+  right: menopoz
+- wrong: menejer
+  right: menajer
+- wrong: mentor
+  right: mentör
+- wrong: mescid
+  right: mescit
+- wrong: meskür
+  right: mezkûr
+- wrong: metcezir
+  right: medcezir
+- wrong: method
+  right: metot
+- wrong: metod
+  right: metot
+- wrong: metoroloji
+  right: meteoroloji
+- wrong: mevzuatlar
+  right: mevzuat
+- wrong: meyva
+  right: meyve
+- wrong: mezkür
+  right: mezkûr
+- wrong: molotof kokteyli
+  right: molotofkokteyli
+- wrong: morel
+  right: moral
+- wrong: muhattap
+  right: muhatap
+- wrong: mundar
+  right: murdar
+- wrong: mustahak
+  right: müstahak
+- wrong: müddet
+  right: mühlet
+- wrong: mükemmelliyetçi
+  right: mükemmeliyetçi
+- wrong: müsade
+  right: müsaade
+- wrong: müsil
+  right: müshil
+- wrong: müstehak
+  right: müstahak
+- wrong: mütaakip
+  right: müteakip
+- wrong: mütahit
+  right: müteahhit
+- wrong: mütevazi
+  right: mütevazı
+- wrong: nacizane
+  right: naçizane
+- wrong: nalet
+  right: lanet
+- wrong: natural
+  right: natürel
+- wrong: naturel
+  right: natürel
+- wrong: ne idüğü belirsiz
+  right: ne idiği belirsiz
+- wrong: netekim
+  right: nitekim
+- wrong: neyseki
+  right: neyse ki
+- wrong: nufus
+  right: nüfus
+- wrong: nufüs
+  right: nüfus
+- wrong: nüfüs
+  right: nüfus
+- wrong: nümizmatik
+  right: nümismatik
+- wrong: oldubitti
+  right: oldu bitti
+- wrong: onla
+  right: onunla
+- wrong: orda
+  right: orada
+- wrong: orjinal
+  right: orijinal
+- wrong: ortadoğu
+  right: orta doğu
+- wrong: ortaya konmak
+  right: ortaya koymak
+- wrong: oysa ki
+  right: oysaki
+- wrong: öğe
+  right: öge
+- wrong: ön görü
+  right: öngörü
+- wrong: ön sezi
+  right: önsezi
+- wrong: ötenazi
+  right: ötanazi
+- wrong: öz geçmiş
+  right: özgeçmiş
+- wrong: öz ve öz
+  right: özbeöz
+- wrong: panaroma
+  right: panorama
+- wrong: panik atak
+  right: panikatak
+- wrong: pantalon
+  right: pantolon
+- wrong: parakende
+  right: perakende
+- wrong: pardesü
+  right: pardösü
+- wrong: parende
+  right: perende
+- wrong: parentez
+  right: parantez
+- wrong: pasifize
+  right: pasivize
+- wrong: pekçok
+  right: pek çok
+- wrong: peluş
+  right: pelüş
+- wrong: personeller
+  right: personel
+- wrong: peşisıra
+  right: peşi sıra
+- wrong: peştemal
+  right: peştamal
+- wrong: piercing
+  right: pirsing
+- wrong: pili
+  right: pile
+- wrong: pinpirik
+  right: pimpirik
+- wrong: pli
+  right: pile
+- wrong: poaça
+  right: poğaça
+- wrong: poça
+  right: poğaça
+- wrong: poğça
+  right: poğaça
+- wrong: polikinlik
+  right: poliklinik
+- wrong: portalı
+  right: portali
+- wrong: potbori
+  right: potpuri
+- wrong: pound
+  right: paunt
+- wrong: prezantabl
+  right: prezantabl
+- wrong: profüterol
+  right: profiterol
+- wrong: proğram
+  right: program
+- wrong: proleterya
+  right: proletarya
+- wrong: provakasyon
+  right: provokasyon
+- wrong: psikiyatrist
+  right: psikiyatr
+- wrong: psikolojist
+  right: psikolog
+- wrong: rakkam
+  right: rakam
+- wrong: raslamak
+  right: rastlamak
+- wrong: raslantı
+  right: rastlantı
+- wrong: reçber
+  right: rençper
+- wrong: rençber
+  right: rençper
+- wrong: repertuar
+  right: repertuvar
+- wrong: resmi geçit
+  right: resmigeçit
+- wrong: resmî geçit
+  right: resmigeçit
+- wrong: restorant
+  right: restoran
+- wrong: ritm
+  right: ritim
+- wrong: ropdöşambır
+  right: ropteşambır
+- wrong: ropteşambır
+  right: ropdöşambır
+- wrong: röpteşambır
+  right: ropdöşambır
+- wrong: rötüş
+  right: rötuş
+- wrong: Rumen
+  right: Romen
+- wrong: rüşeym
+  right: ruşeym
+- wrong: rütuş
+  right: rötuş
+- wrong: saçmasapan
+  right: saçma sapan
+- wrong: sağsalim
+  right: sağ salim
+- wrong: sanane
+  right: sana ne
+- wrong: sandöviç
+  right: sandviç
+- wrong: sarmısak
+  right: sarımsak
+- wrong: satınalma
+  right: satın alma
+- wrong: sebeb
+  right: sebep
+- wrong: senle
+  right: seninle
+- wrong: seramoni
+  right: seremoni
+- wrong: serbes
+  right: serbest
+- wrong: sevketmek
+  right: sevk etmek
+- wrong: seyehat
+  right: seyahat
+- wrong: sezaryan
+  right: sezaryen
+- wrong: sezeryan
+  right: sezaryen
+- wrong: sıyga
+  right: siga
+- wrong: silahşör
+  right: silahşor
+- wrong: silüet
+  right: siluet
+- wrong: sipiker
+  right: spiker
+- wrong: soğuk kanlı
+  right: soğukkanlı
+- wrong: sosyolojist
+  right: sosyolog
+- wrong: sözgelimi
+  right: söz gelimi
+- wrong: sözkonusu
+  right: söz konusu
+- wrong: stoğu
+  right: stoku
+- wrong: subap
+  right: supap
+- wrong: suç üstü
+  right: suçüstü
+- wrong: sükut-u hayal
+  right: sukutuhayal
+- wrong: sükutuhayal
+  right: sukutuhayal
+- wrong: süpriz
+  right: sürpriz
+- wrong: şartel
+  right: şalter
+- wrong: şarz
+  right: şarj
+- wrong: şifahi
+  right: şifai
+- wrong: şovinizm
+  right: şovenizm
+- wrong: şöför
+  right: şoför
+- wrong: şuan
+  right: şu an
+- wrong: tabiki
+  right: tabii ki
+- wrong: tabikide
+  right: tabii ki
+- wrong: tabldot
+  right: tabildot
+- wrong: tahtarevalli
+  right: tahtarevalli
+- wrong: tahtırevan
+  right: tahterevan
+- wrong: tahüt
+  right: taahhüt
+- wrong: taktir
+  right: takdir
+- wrong: tastik
+  right: tasdik
+- wrong: tasviye
+  right: tasfiye
+- wrong: taşaron
+  right: taşeron
+- wrong: TBMM'ye
+  right: TBMM'ne
+- wrong: tebellü
+  right: tebellüğ
+- wrong: tebli
+  right: tebliğ
+- wrong: tekrardan
+  right: yeniden
+- wrong: tenefüs
+  right: teneffüs
+- wrong: tensib
+  right: tensip
+- wrong: tepe taklak
+  right: tepetaklak
+- wrong: terketmek
+  right: terk etmek
+- wrong: teror
+  right: terör
+- wrong: terörist
+  right: terorist
+- wrong: terörizm
+  right: terorizm
+- wrong: tesbih
+  right: tespih
+- wrong: tesbit
+  right: tespit
+- wrong: testosteron
+  right: testesteron
+- wrong: teşfik
+  right: teşvik
+- wrong: tetanos
+  right: tetanoz
+- wrong: tıpa
+  right: tıbba
+- wrong: tıpı
+  right: tıbbı
+- wrong: tıpın
+  right: tıbbın
+- wrong: tiroid
+  right: tiroit
+- wrong: tişort
+  right: tişört
+- wrong: toz pembe
+  right: tozpembe
+- wrong: trabzan
+  right: tırabzan
+- wrong: transistör
+  right: transistor
+- wrong: tranvay
+  right: tramvay
+- wrong: tranzistor
+  right: transistor
+- wrong: tranzistör
+  right: transistor
+- wrong: traş
+  right: tıraş
+- wrong: türap
+  right: turap
+- wrong: Türkçe'miz
+  right: Türkçemiz
+- wrong: ultrasyon
+  right: ultrason
+- wrong: ultümatom
+  right: ültimatom
+- wrong: uluslar arası
+  right: uluslararası
+- wrong: uluslararası
+  right: uluslar arası
+- wrong: umrumda
+  right: umurumda
+- wrong: unvan
+  right: ünvan
+- wrong: usül
+  right: usul
+- wrong: ültimatom
+  right: ultimatom
+- wrong: ültümaton
+  right: ültimatom
+- wrong: üniversite
+  right: ünversite
+- wrong: ünüverste
+  right: üniversite
+- wrong: ünvan
+  right: unvan
+- wrong: üslub
+  right: üslup
+- wrong: üslup
+  right: uslup
+- wrong: üsteğmen
+  right: üsteğmen
+- wrong: üstün körü
+  right: üstünkörü
+- wrong: üzre
+  right: üzere
+- wrong: vaad etmek
+  right: vadetmek
+- wrong: vaat etmek
+  right: vadetmek
+- wrong: vad etmek
+  right: vadetmek
+- wrong: Vandal
+  right: vandal
+- wrong: vaz geçmek
+  right: vazgeçmek
+- wrong: ve ya
+  right: veya
+- wrong: vehamet
+  right: vahamet
+- wrong: vejeteryan
+  right: vejetaryen
+- wrong: Venezüella
+  right: Venezuela
+- wrong: virtüöz
+  right: virtüoz
+- wrong: vucüt
+  right: vücut
+- wrong: ya herru ya merru
+  right: ya herrü ya merrü
+- wrong: yada
+  right: ya da
+- wrong: yakan top
+  right: yakantop
+- wrong: yakınen
+  right: yakından
+- wrong: yalnış
+  right: yanlış
+- wrong: yanar dağ
+  right: yanardağ
+- wrong: yanı sıra
+  right: yanısıra
+- wrong: yanlız
+  right: yalnız
+- wrong: yanyana
+  right: yan yana
+- wrong: Yaratan
+  right: Yaradan
+- wrong: yasadışı
+  right: yasa dışı
+- wrong: yayınlamak
+  right: yayımlamak
+- wrong: Yeni Zellanda
+  right: Yeni Zelanda
+- wrong: yeralmak
+  right: yer almak
+- wrong: yıl başı
+  right: yılbaşı
+- wrong: yinede
+  right: yine de
+- wrong: yövmiye
+  right: yevmiye
+- wrong: yükseköğrenim
+  right: yükseköğretim
+- wrong: zebellah
+  right: zebella
+- wrong: zehir etmek
+  right: zehretmek
+- wrong: zerafet
+  right: zarafet
+- wrong: zeytin yağı
+  right: zeytinyağı
+- wrong: zıttı
+  right: zıddı
